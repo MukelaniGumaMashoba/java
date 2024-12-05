@@ -57,7 +57,7 @@ public class helloworld {
 
         // switch case
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter a number: ");
+        System.out.println("Enter a number between 1-7: ");
         int day = input.nextInt();
         switch (day) {
             case 1:
