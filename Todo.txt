@@ -1,0 +1,4 @@
+design program to take user input
+design program to display odd and even numbers
+
+create a calculator 
