@@ -5,9 +5,19 @@ public class Loop {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number: ");
         int n = sc.nextInt();
+        sc.close();
         for (int i = 0; i < n; i++) {
             System.out.println(i);
         }
-        sc.close();
+
+        String axole = "";
+
+        System.out.println(axole);
+
+        switch (axole) {
+            case "Axole" -> System.out.println(axole);
+            default -> throw new AssertionError();
+        }
+
     }
 }

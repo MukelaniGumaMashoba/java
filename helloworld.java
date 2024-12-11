@@ -84,7 +84,17 @@ public class helloworld {
             default:
                 System.out.println("Invalid day");
         }
+        Show();
+    }
 
-        k.close();
+    public static void Show() {
+        Scanner user_name = new Scanner(System.in);
+        System.out.println("Enter your name: ");
+        String namea = user_name.nextLine();
+
+        System.out.println("Hello " + namea);
+        System.out.println("This is a method");
+
+        user_name.close();
     }
 }
