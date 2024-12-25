@@ -1,6 +1,23 @@
 
 import java.util.Scanner;
 
+
+// class name should be the same as the file name
+// class name should start with a capital letter
+// class name should be a noun
+// class name should not contain any special characters
+// class name should not contain any spaces
+// class name should not contain any white spaces
+// class name should not contain any numbers
+// class name should not contain any keywords
+// class name should not contain any reserved words
+// class name should not contain any operators
+// class name should not contain any punctuations
+// class name should not contain any symbols
+// class name should not contain any unicode characters
+// class name should not contain any emojis
+// class name should not contain any whitespaces
+
 public class helloworld {
 
     public static void main(String[] args) {
