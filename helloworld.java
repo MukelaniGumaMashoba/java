@@ -111,7 +111,13 @@ public class helloworld {
 
         System.out.println("Hello " + namea);
         System.out.println("This is a method");
+        Zaamni();
 
         user_name.close();
+    }
+
+
+    public static void Zaamni(){
+        System.out.println("This is another method");
     }
 }
