@@ -119,5 +119,11 @@ public class helloworld {
 
     public static void Zaamni(){
         System.out.println("This is another method");
+        System.out.println("This is another method");
+        System.out.println("This is another method");
+    }
+
+    public static void Wow(){
+        System.out.println("This is a method");
     }
 }
